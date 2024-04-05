@@ -1,0 +1,672 @@
+#body {
+    min-width: fit-content;
+}
+#div1-sec1
+{
+    width: 100%;
+    height: 70px;
+    border: rgb(1, 1, 44) solid 5px;
+    background-color: rgb(1, 1, 44);
+}
+#nav{
+    color: white;
+    margin: 0px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-left: 50px;
+}
+#nav:hover{
+background-color:rgb(1, 1, 44);
+    color: orangered;
+
+    
+}
+#hussaini {
+    color: rgb(255, 60, 0);
+    font-size: 28px;
+    margin-right: 150px;
+
+}
+#div1-sec2 {
+    width: 100%;
+    height: 450px;
+    border: none black 5px;
+    background-image: url(images/istockphoto-508483540-1024x1024.jpg);
+    background-size: 100%;
+}
+#div2-sec2 {
+    width: 50%;
+    height:450px;
+    border: ridge transparent 5px; 
+margin-left: 200px;
+
+}
+#div3-sec2 {
+    width: 50%;
+    height: 50px;
+    border: orangered 5px solid;
+    margin-top: 50px;
+    /* margin-left: 50px; */
+    background-color: orangered;
+}
+#css1 {
+    color: white;
+    font-size: 29px;
+    /* margin-bottom: 20px; */
+    font-family: 'Secular One', sans-serif;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+#css2 {
+    font-size: 50px;
+    color: orangered;
+    font-family: 'Secular One', sans-serif;
+
+}
+#css3 {
+    color: white;
+    font-family: 'Secular One', sans-serif;
+}
+#div1 {
+    height: 150px;
+    width: 150px;
+    border: orangered 3px solid;
+    margin-left: 800px;
+    margin-top: -400px;
+    background-color: white;
+}
+#pipe {
+    width: 150px;
+    height: 150px;
+}
+#div2 {
+    height: 150px;
+    width: 150px;
+    border: orangered 3px solid;
+    margin-left: 900px;
+   margin-top: 20px;
+    background-color: white;
+}
+#roll {
+    width: 150px;
+    height: 150px;
+}
+#div3 {
+    height: 150px;
+    width: 150px;
+    border: orangered 3px solid;
+    margin-left: 1000px;
+   margin-top: -320px;
+    background-color: white;
+}
+#roll1 {
+    width: 150px;
+    height: 150px;
+}
+#div4 {
+    height: 150px;
+    width: 150px;
+    border: orangered 3px solid;
+    margin-left: 1100px;
+   margin-top: 20px;
+    background-color: white;
+}
+#roll2 {
+    width: 150px;
+    height: 150px;
+}
+#div1-sec3 {
+    height: 700px;
+    width: 100%;
+    border: none black 5px;
+}
+#div2-sec3 {
+    height: 500px;
+    width: 40%;
+    border: none black 5px;
+    float: left;
+    margin-left: 130px;
+    margin-top: 100px;
+    margin-right: 20px;
+}
+#div3-sec3 {
+    height: 500px;
+    width: 40%;
+    border: none black 5px;
+    float: left;
+    /* margin-left: 100px; */
+    margin-top: 100px;
+}
+#css4 {
+font-size: 30px;
+font-family: 'Merriweather Sans', sans-serif;
+}
+#css5 {
+    font-size: 25px;
+    font-family: 'Merriweather Sans', sans-serif;
+    }
+    #css6 {
+        color: orangered;
+    }
+.css6 {
+    color: grey;
+}
+#btn1 {
+background-color: orangered;
+color: white;
+font-size: 15px;
+border: orangered 1px solid;
+width: 130px;
+height: 30px;
+text-decoration: none;
+
+}
+#img1-sec3 {
+    height: 500px;
+    width: 100%;
+}
+#div1-sec4 {
+    height: 600px;
+    width: 100%;
+    border: none black 5px;
+}
+#div2-sec4 {
+    height: 500px;
+    width: 40%;
+    border: none black 5px;
+    float: left;
+    margin-left: 120px;
+    margin-top: 50px;
+
+}
+#div3-sec4 {
+    height: 500px;
+    width: 40%;
+    border: none black 5px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 50px;
+    
+}
+#css7 {
+    font-size: 18px;
+    color: grey;
+}
+#css8 {
+    width: 250px;
+    height: 30px;
+    float: left;
+    
+}
+#css9{
+    width: 250px;
+    height: 30px;
+    float: left;
+}
+#css10 {
+    width: 500px;
+    height: 100px;
+    float: left;
+}
+#img1-sec4 {
+    height: 500px;
+    width: 100%;
+}
+#div4-sec4 {
+    height: 200px;
+    width: 250px;
+    border: solid white 5px;
+    /* margin-bottom: 100px; */
+    margin-left: 270px;
+    margin-top: -227px;
+
+}
+ #css11 {
+    width: 230px;
+    height: 30px;
+    /* float: left; */
+} 
+#btn2 {
+    width:240px;
+    height: 35px;
+    border: none;
+    background-color: orangered;
+    margin-top: 20px;
+    color: white;
+}
+#div1-sec5 {
+    height: 800px;
+    width: 100%;
+    border:none black 5px;
+}
+#css20 {
+    font-size: 25px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+#css21 {
+    color: orangered;
+}
+#div21 {
+    height: 250px;
+    width: 240px;
+    border: none black 5px;
+    margin-left: 120px;
+    float: left;
+}
+#div22 {
+    height: 250px;
+    width: 240px;
+    border: none black 5px;
+    margin-left: 30px;
+    float: left;
+    /* margin-top: 30px; */
+    /* background-color: blue; */
+}
+#div24 {
+    height: 250px;
+    width: 240px;
+    border: none black 5px;
+    margin-left: 30px;
+    float: left;
+    /* background-color: aqua; */
+    /* margin-top:30px ; */
+}
+#div25 {
+    height: 250px;
+    width: 240px;
+    border: none black 5px;
+    margin-left: 30px;
+    float: left;
+    /* background-color: blueviolet; */
+}
+#div26 {
+    height: 250px;
+    width: 240px;
+    border: none black 5px;
+    margin-left: 120px;
+    float: left;
+    margin-top: 100px;
+}
+#div27 {
+    height: 250px;
+    width: 240px;
+    border: none black 5px;
+    margin-left: 30px;
+    float: left;
+    /* margin-top: 30px; */
+    /* background-color: blue; */
+    margin-top: 100px;
+}
+#div28 {
+    height: 250px;
+    width: 240px;
+    border: none black 5px;
+    margin-left: 30px;
+    float: left;
+    /* background-color: aqua; */
+    /* margin-top:30px ; */
+    margin-top: 100px;
+}
+#div29 {
+    height: 250px;
+    width: 240px;
+    border: none black 5px;
+    margin-left: 30px;
+    float: left;
+    /* background-color: blueviolet; */
+    margin-top: 100px;
+}
+#img1-sec5 {
+    height: 200px;
+    width: 240px;
+}
+#img2-sec5 {
+    height: 200px;
+    width: 240px;
+}
+#img3-sec5 {
+    height: 200px;
+    width: 240px;
+}
+#img4-sec5 {
+    height: 200px;
+    width: 240px;
+}
+#img5-sec5 {
+    height: 200px;
+    width: 240px;
+}
+#img6-sec5 {
+    height: 200px;
+    width: 240px;
+}
+#img7-sec5 {
+    height: 200px;
+    width: 240px;
+}
+#img8-sec5 {
+    height: 200px;
+    width: 240px;
+}
+.css30 {
+    text-align: center;
+    color: orangered;
+}
+#div1-sec6 {
+    height: 300px;
+    width: 100%;
+    border: transparent solid 5px;
+    background-image: url(images/totalenergies_bandeau_page_aluminium2.jpg);
+    background-size: 100% 300px;
+}
+#div2-sec6 {
+    height: 100px;
+    width: 100px;
+    border: black none 5px;
+    margin-left: 600px;
+    margin-top: 50px;
+}
+#img1-sec6 {
+    height: 100px;
+    width: 100px;   
+}
+#div3-sec6 {
+    height:30px;
+    width: 50px;
+    border: black none 5px; 
+    margin-left: 630px;
+    margin-top: -40px;
+    color: white;
+    font-family:'Merriweather Sans', sans-serif ;
+}
+#css31 {
+    color: white;
+    font-family: 'Merriweather Sans', sans-serif ;
+}
+#div1-sec7 {
+    height: 600px;
+    width: 100%;
+    border: 5px black none;
+}
+#css33 {
+    color: orangered;
+}
+#css34 {
+    font-size: 30px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+#css35 {
+    font-size: 25px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+#div30 {
+    height: 260px;
+    width: 240px;
+    border: none black 5px;
+    margin-left: 120px;
+    float: left;
+    margin-top: 50px;
+    background-image: url(images/group-professional-business-meeting-discussing-strategy-with-new-startup-project-creative-african-american-man-planning-brainstorm-with-laptop-computer-modern-office-teamwork_38019-2015.webp);
+    background-size: 240px 260px;
+}
+#div31 {
+    height: 260px;
+    width: 240px;
+    border: none black 5px;
+    margin-left: 30px;
+    float: left;
+    margin-top: 50px;
+    /* background-color: blue; */
+    background-size: 240px 260px;
+    background-image: url(images/Capture.PNG);
+}
+#div32 {
+    height: 260px;
+    width: 240px;
+    border: none black 5px;
+    margin-left: 30px;
+    float: left;
+    /* background-color: aqua; */
+     margin-top:50px ; 
+     background-size: 240px 260px;
+     background-image: url(images/images\ \(1\).jpg);
+}
+#div33 {
+    height: 260px;
+    width: 240px;
+    border: none black 5px;
+    margin-left: 30px;
+    float: left;
+    /* background-color: blueviolet; */
+    margin-top: 50px;
+    background-size: 240px 260px;
+    background-image: url(images/images\ \(2\).jpg);
+}
+ #div1-sec8 {
+    height: 350px;
+    width:100% ; 
+    border:  rgb(0, 0, 51) 5px solid;
+    background-color: rgb(0, 0, 51);
+} 
+#div2-sec8 {
+    height :230px;
+    width:350px ; 
+    border:   rgb(0, 0, 51) 5px solid;
+    margin-top: 20px;
+    margin-left: 100px;
+    float: left;
+}
+#div3-sec8 {
+    height :200px;
+    width:350px ; 
+    border:   rgb(0, 0, 51) 5px solid;
+    margin-top: 20px;
+    margin-left: 100px;
+    float: left;
+}
+#div4-sec8 {
+    height :200px;
+    width:350px ; 
+    border:   rgb(0, 0, 51) 5px solid;
+    margin-top: -200px;
+   margin-left: 400px; 
+    float: left;
+}
+#div5-sec8 {
+    height :100px;
+    width:100px ; 
+    border:  rgb(0, 0, 51) 5px solid;
+   margin-top: 20px;  
+   /* margin-left: 140px;  */
+   /* margin-bottom: 20px; */
+    float: left;
+}
+#css40 {
+    color: white;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+#css42 {
+    color: white;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 10px;
+}
+#img1-sec8 {
+width: 60px;
+height: 15px;
+}
+.css48 {
+    width: 30px;
+    height: 30px;
+}
+#css49 {
+    color: white;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 12px;
+}
+#div6-sec8 {
+    height :100px;
+    width:100px ; 
+    border:  rgb(0, 0, 51) 5px solid;
+ margin-top: 20px; 
+   /* margin-left: 140px;  */
+   /* margin-bottom: 20px; */
+    float: left;
+}
+#img2-sec8 {
+margin-left: -220px;
+width: 60px;
+height: 15px;
+}
+#hr1 {
+    color: rgb(192, 192, 192);
+    margin-top: 120px;
+    width: 900px;
+    margin-left: -350px;
+}
+#css50 {
+    color:  rgb(192, 192, 192);
+    text-align: center;
+    margin-left: -100px;
+    font-size: 10px;
+}
+#css51 {
+     color: white;
+     text-decoration: white;
+     margin-top: 5px;
+}
+#product {
+    width: 100%;
+    height: 300px;
+    border: solid 1px black;
+    background-image: url(images/images1/about.jpeg);
+    background-size: 100% 300px;
+}
+#product1 {
+    width: 190px;
+    height: 50px;
+    border: black none 5px;
+    background-color: rgb(255, 115, 0);
+   margin-left: 200px;
+     margin-top: 50px; 
+}
+#product2 {
+    color: white;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 35px;
+    margin-top: 20px;
+}
+#css60 {
+    color: orangered;
+    font-size: 40px;
+}
+#news1 {
+    width: 100%;
+    height: 300px;
+    border: transparent solid 1px;
+    background-image: url(images/Newspapers_2021_withoutText.webp);
+    background-size: 100% 300px;
+}
+#news2 {
+    width: 170px;
+    height: 50px;
+    border: rgb(255, 115, 0) solid 1px;
+    background-color: rgb(255, 115, 0);
+   margin-left: 200px;
+     margin-top: 50px; 
+     font-size: 45px;
+     color: white;
+     font-family:'Merriweather Sans', sans-serif;
+}
+#div21:hover {
+    border: orangered 2px solid;
+}
+#div22:hover {
+    border: orangered 2px solid;
+}
+#div23:hover {
+    border: orangered 2px solid;
+}
+#div24:hover {
+    border: orangered 2px solid;
+}
+#div25:hover {
+    border: orangered 2px solid;
+}
+#div26:hover {
+    border: orangered 2px solid;
+}
+#div27:hover {
+    border: orangered 2px solid;
+}
+#div28:hover {
+    border: orangered 2px solid;
+}
+#div29:hover {
+    border: orangered 2px solid;
+}
+#news5 {
+    width: 100%;
+    height: 1100px;
+    border: ridge white 5px;
+}
+#news10 {
+    font-size: 30px;
+    color: black;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+#img1-secnews {
+    width: 50px;
+    margin-top: -100px;
+}
+.news6{
+    border: ridge white 5px;
+    width: 300px;
+    height: 400px;
+    margin-left: 100px;
+    float: left;
+}
+.news7{
+    border: ridge white 5px;
+    width: 300px;
+    height: 400px;
+    margin-left: 100px;
+    float: left;
+}
+.news8{
+    border: ridge white 5px;
+    width: 300px;
+    height: 400px;
+    margin-left: 100px;
+    float: left;
+}
+.news11{
+    border: ridge white 5px;
+    width: 300px;
+    height: 400px;
+    margin-left: 100px;
+    float: left;
+    margin-top: 100px;
+}
+.news12{
+    border: ridge white 5px;
+    width: 300px;
+    height: 400px;
+    margin-left: 100px;
+    float: left;
+    margin-top: 100px;
+}
+.news13{
+    border: ridge white 5px;
+    width: 300px;
+    height: 400px;
+    margin-left: 100px;
+    float: left;
+    margin-top: 100px;
+}
+.imges-news {
+    width: 300px;
+    height: 400px;
+}
+.imges-news:hover {
+    border: solid 3px orangered;
+}
